@@ -13,6 +13,6 @@ on:
 
 jobs:
   preview:
-    uses: acid-theme/acid/.github/workflows/port-preview.yml@master
+    uses: acid-theme/acid/.github/workflows/port-preview.yml@main
     permissions:
       contents: write
