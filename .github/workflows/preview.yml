@@ -8,6 +8,7 @@ on:
     paths:
       - "acid-acetic.css"
       - "acid-citric.css"
+      - "acid-lactic.css"
       - "preview/**"
   workflow_dispatch:
 
